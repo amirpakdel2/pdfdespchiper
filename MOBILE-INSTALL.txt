@@ -1,0 +1,11 @@
+Flight Study 0.5 - Mobile/Desktop
+=================================
+Publish the folder contents to your HTTPS host, keeping index.html at the site root.
+
+On iPhone: open the HTTPS site in Safari > Share > Add to Home Screen.
+On Android: open the HTTPS site in Chrome > menu > Install app / Add to Home Screen.
+On Windows: use Create-Desktop-Shortcut.bat to create a shortcut, or open index.html in your browser.
+
+Study annotations and vocabulary are stored in the browser's local storage per device/browser profile.
+Use Export Backup regularly. To move data between devices, export JSON from the original device and import it on the destination device.
+Inline annotation visibility can be toggled from the app's top bar; the setting persists locally.
